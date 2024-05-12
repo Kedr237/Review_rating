@@ -1,0 +1,3 @@
+PATH_TO_SUBFILES = 'subfiles/'
+PATH_TO_MODEL = PATH_TO_SUBFILES + 'dp_model_90acc.h5'
+PATH_TO_VECTORIZER = PATH_TO_SUBFILES + 'vectorizer.pkl'
